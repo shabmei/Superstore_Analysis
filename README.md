@@ -5,7 +5,7 @@
 
 **Data Preprocessing and Exploratory Data Analysis** - Python with Google Colab
 
-**Data Visualization** Tableau
+**Data Visualization** - Tableau
 
 ## Overview
 The Superstore Giant have been operating for more than two decades, experiencing various market changes and intense competition. In recent years, competition has increased with many new competitors entering the market. Despite this, some products and categories continue to show strong performance.
