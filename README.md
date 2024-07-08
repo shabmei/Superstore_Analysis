@@ -1,4 +1,5 @@
 # Superstore Sales Analysis
+![Superstore Dashboard](https://github.com/shabmei/Superstore_Analysis/assets/143242186/ff38070d-0bb5-4e0b-b174-acd4d66217f4)
 
 ## Data Used
 **Dataset** - Sales data with 9994 rows from the 3rd of January 2014 to the 30th of December 2017 on Kaggle.
